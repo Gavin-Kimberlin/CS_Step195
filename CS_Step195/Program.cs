@@ -10,7 +10,7 @@ namespace CS_Step195
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is current day of the week?\n");
+            Console.WriteLine("What is the current day of the week?\n");
             string CurrentDay = Convert.ToString(Console.ReadLine()).ToLower();
 
             try
